@@ -26,7 +26,7 @@ git log --oneline
 ```
 
 ```text
-57d1341 Add a note about git status
+57d1341 (HEAD -> main) Add a note about git status
 22a462d Add my first notes
 ```
 
@@ -363,7 +363,7 @@ git log --oneline
 ```
 
 ```text
-66ccd5b Add a .gitignore file
+66ccd5b (HEAD -> main) Add a .gitignore file
 28eebaf Rename todo.txt to plan.txt
 4526919 Change the notes title to this week
 32af224 Add a todo list

@@ -195,7 +195,7 @@ git log --oneline
 ```
 
 ```text
-22a462d Add my first notes
+22a462d (HEAD -> main) Add my first notes
 ```
 
 ---
@@ -245,7 +245,7 @@ git log --oneline
 ```
 
 ```text
-57d1341 Add a note about git status
+57d1341 (HEAD -> main) Add a note about git status
 22a462d Add my first notes
 ```
 
