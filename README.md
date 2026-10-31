@@ -5,7 +5,7 @@ Learn to save your work with Git, go back when something breaks, try new ideas o
 
 [![Sessions](https://img.shields.io/badge/sessions-12-f05032)](#course-outline)
 [![Tested with Git 2.55](https://img.shields.io/badge/tested%20with-Git%202.55-f05032?logo=git&logoColor=white)](#what-you-need)
-[![Published](https://img.shields.io/badge/published-2%20of%2012-f59e0b)](#course-outline)
+[![Published](https://img.shields.io/badge/published-3%20of%2012-f59e0b)](#course-outline)
 [![Free](https://img.shields.io/badge/price-free-16a34a)](#how-to-use-this-course)
 
 ![The course in four parts: Git on your computer, branches, GitHub, and a final project, followed by your own projects on GitHub](images/01-what-are-git-and-github/learning-path.gif)
@@ -91,7 +91,7 @@ Sessions are published one by one. Sessions with a link are ready to read.
 | -- | ----------------------------------------------------- | --------------------------------------------------------- |
 | 01 | [What Are Git and GitHub?](01-what-are-git-and-github.md) | What version control is, Git vs GitHub, how teams work    |
 | 02 | [Installing and Setting Up Git](02-installing-and-setting-up-git.md) | Installing Git, your name and email, the `main` branch    |
-| 03 | Your First Repository                                 | `git init`, `git status`, `git add`, your first commit    |
+| 03 | [Your First Repository](03-your-first-repository.md)  | `git init`, `git status`, `git add`, your first commit    |
 | 04 | Everyday Commits and .gitignore                       | Seeing changes, good commit messages, files Git should ignore |
 | 05 | Looking at History                                    | `git log`, `git show`, comparing versions                 |
 | 06 | Undoing Mistakes                                      | Throwing away changes, fixing a commit, undoing a commit safely |
