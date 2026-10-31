@@ -291,11 +291,11 @@ git commit --no-edit
 ```
 
 ```text
+U	goals.txt
 error: Committing is not possible because you have unmerged files.
 hint: Fix them up in the work tree, and then use 'git add/rm <file>'
 hint: as appropriate to mark resolution and make a commit.
 fatal: Exiting because of an unresolved conflict.
-U	goals.txt
 ```
 
 Fix the file and `git add` it first. Then commit.
