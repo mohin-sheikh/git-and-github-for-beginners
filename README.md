@@ -5,7 +5,7 @@ Learn to save your work with Git, go back when something breaks, try new ideas o
 
 [![Sessions](https://img.shields.io/badge/sessions-12-f05032)](#course-outline)
 [![Tested with Git 2.55](https://img.shields.io/badge/tested%20with-Git%202.55-f05032?logo=git&logoColor=white)](#what-you-need)
-[![Published](https://img.shields.io/badge/published-11%20of%2012-f59e0b)](#course-outline)
+[![Published](https://img.shields.io/badge/published-12%20of%2012-16a34a)](#course-outline)
 [![Free](https://img.shields.io/badge/price-free-16a34a)](#how-to-use-this-course)
 
 ![The course in four parts: Git on your computer, branches, GitHub, and a final project, followed by your own projects on GitHub](images/01-what-are-git-and-github/learning-path.gif)
@@ -33,6 +33,7 @@ Learn to save your work with Git, go back when something breaks, try new ideas o
 * Working on new ideas with branches, and fixing merge conflicts
 * Putting your projects on GitHub, and working on them from two places
 * Pull requests: how teams review and add each other's work
+* A real Node.js project on GitHub, with a `.gitignore`, a `.env.example` and a README
 
 ---
 
@@ -54,8 +55,9 @@ Learn to save your work with Git, go back when something breaks, try new ideas o
 | A terminal           | The one built into VS Code is enough                           |
 | A GitHub account     | Free. You create it in Session 09                              |
 | Internet             | Only to install Git, and for the GitHub sessions (09 to 12)    |
+| Node.js              | Only for Session 12: the LTS version from [nodejs.org](https://nodejs.org/) |
 
-Git itself is installed in Session 02. The course was tested with Git 2.55 on Windows.
+Git itself is installed in Session 02. The course was tested with Git 2.55 and Node.js 24 on Windows.
 
 ---
 
@@ -83,7 +85,7 @@ git clone https://github.com/mohin-sheikh/git-and-github-for-beginners.git
 
 ## Course Outline
 
-Sessions are published one by one. Sessions with a link are ready to read.
+All 12 sessions are ready to read.
 
 ### Part 1: Git on Your Computer
 
@@ -115,7 +117,7 @@ Sessions are published one by one. Sessions with a link are ready to read.
 
 | #  | Session                                               | You will learn                                            |
 | -- | ----------------------------------------------------- | --------------------------------------------------------- |
-| 12 | Final Project: Your Node.js Project on GitHub         | Everything together, with a real project and a README     |
+| 12 | [Final Project: Your Node.js Project on GitHub](12-final-project.md) | Everything together, with a real project and a README     |
 
 ---
 
