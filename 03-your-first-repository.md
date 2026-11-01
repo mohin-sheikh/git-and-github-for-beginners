@@ -36,7 +36,7 @@ git init
 ```
 
 ```text
-Initialized empty Git repository in D:/git-course-tools/sandbox/03/git-practice/my-notes/.git/
+Initialized empty Git repository in D:/git-practice/my-notes/.git/
 ```
 
 `git init` creates a hidden folder called `.git` inside `my-notes`. That is where Git keeps the whole history of the project. `my-notes` is now a **repository**.

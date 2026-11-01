@@ -5,7 +5,7 @@ Learn to save your work with Git, go back when something breaks, try new ideas o
 
 [![Sessions](https://img.shields.io/badge/sessions-12-f05032)](#course-outline)
 [![Tested with Git 2.55](https://img.shields.io/badge/tested%20with-Git%202.55-f05032?logo=git&logoColor=white)](#what-you-need)
-[![Published](https://img.shields.io/badge/published-10%20of%2012-f59e0b)](#course-outline)
+[![Published](https://img.shields.io/badge/published-11%20of%2012-f59e0b)](#course-outline)
 [![Free](https://img.shields.io/badge/price-free-16a34a)](#how-to-use-this-course)
 
 ![The course in four parts: Git on your computer, branches, GitHub, and a final project, followed by your own projects on GitHub](images/01-what-are-git-and-github/learning-path.gif)
@@ -109,7 +109,7 @@ Sessions are published one by one. Sessions with a link are ready to read.
 | -- | ----------------------------------------------------- | --------------------------------------------------------- |
 | 09 | [Putting Your Project on GitHub](09-putting-your-project-on-github.md) | A GitHub account, a new repository, `git push`            |
 | 10 | [Clone, Pull and Fetch](10-clone-pull-and-fetch.md)   | Downloading a repository, getting new commits             |
-| 11 | Pull Requests                                         | Branch, push, review and merge, the way teams work        |
+| 11 | [Pull Requests](11-pull-requests.md)                  | Branch, push, review and merge, the way teams work        |
 
 ### Part 4: Final Project
 
